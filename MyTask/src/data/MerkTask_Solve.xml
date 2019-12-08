@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<x1>
+		<x2 id="a1">a</x2>
+		<x2>b</x2>
+		<x2 id="a1">c</x2>
+	</x1>
+	<x2>d</x2>
+	<x2 id="a1">e</x2>
+	<x1 id="a1">
+		<y1>
+			<x2 id="a1">f</x2>
+		</y1>
+		<x2>g</x2>
+		<x2 id="a1">h</x2>
+	</x1>
+</root>
